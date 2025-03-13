@@ -20,13 +20,13 @@ Automate your process of setting up a local Laravel development environment on U
 2. Make it Executable:
 
       ```bash
-      chmod +x setup-laravel.sh
+      chmod +x quick-laravel-setup.sh
       ```
 
 3. Run the Script:
 
       ```bash
-      ./setup-laravel.sh <app_name>
+      ./quick-laravel-setup.sh <app_name>
       ```
 
 4. Once the script finishes, you can access your Laravel application in your browser by going to `http://your_app.test`
